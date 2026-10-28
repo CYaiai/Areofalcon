@@ -97,10 +97,12 @@ it really helps and keeps development going. Thank you!
 This tool is **strictly for authorized penetration testing and security research only**.
 Unauthorized access to computer systems is illegal. Users must:
 
-1. Obtain explicit written authorization from system owners
-2. Comply with all local laws and regulations
-3. Use only on authorized targets
-4. Accept full legal responsibility for their actions
+1. Aerofalcon v1.7.2 is only used for security research, security defense training and penetration testing activities that have obtained formal, written and effective authorization from the owner of the target information system.
+2. The tool contains functions such as encrypted communication, memory shell injection, multi-type payload generation and traffic camouflage. Such functions can only be applied to authorized security evaluation scenarios. Any unauthorized use constitutes a violation of relevant cybersecurity laws and regulations.
+3. The author does not provide any technical guidance, consulting services for illegal use, and will not be involved in any attack activities of users. The author is not aware of, cannot control and will not bear any legal consequences caused by the user's operation behavior.
+4. It is strictly forbidden to use this tool for unauthorized scanning, intrusion, remote control, stealing data, destroying business, planting backdoors, horizontal movement, secret communication and other harmful behaviors against any third-party system.
+5. Once you download, install, run or call any function of this software, it means that you have fully read, understood and voluntarily accepted all the contents of this disclaimer. If you cannot accept it, please delete all related program files immediately.
+6. If the user violates relevant national laws and regulations and causes losses to individuals, enterprises or institutions, all legal liabilities and compensation responsibilities shall be borne by the user alone.
 
 ## 📝 Installation Notes
 
