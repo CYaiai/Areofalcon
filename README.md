@@ -1,6 +1,6 @@
 # Aerofalcon v1.7.2
 
-> Modern Encrypted Web Remote Management Terminal — for authorized penetration testing and red team assessments
+> Encrypted Web Remote Management Terminal — for authorized penetration testing and red team assessments
 
 **Version**: 1.7.2 · **Author**: CYAiAi · **Requires**: JDK 17+
 
